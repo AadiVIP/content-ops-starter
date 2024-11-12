@@ -63,7 +63,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - NHG Software
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: By No Headphone Gamerz
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
