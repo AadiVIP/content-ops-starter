@@ -14,7 +14,7 @@ sections:
           - pb-20
           - pr-20
   - title:
-      text: Generic Section With A Form
+      text: No Headphone Gamerz
       color: text-dark
       type: TitleBlock
     subtitle: Request for games and apps
