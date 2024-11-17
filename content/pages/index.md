@@ -2,6 +2,17 @@
 title: Home
 slug: /
 sections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
   - title:
       text: Generic Section With A Form
       color: text-dark
@@ -61,17 +72,6 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
 seo:
   metaTitle: Home - NHG Software
   metaDescription: By No Headphone Gamerz
